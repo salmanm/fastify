@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/fastify/graphics/raw/master/full-logo.png" width="650" height="auto"/>
+<img src="./logo2.svg" width="650" height="auto"/>
 </div>
 
 <div align="center">
